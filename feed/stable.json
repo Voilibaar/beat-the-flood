@@ -1,7 +1,1 @@
-{
-  "version": "0.14.2",
-  "gameUrl": "../payload/game-0.14.2.html",
-  "sha256": "b9965b2fdaf960ca04f2654efd763abb4b4d7f0410f970b30d4e182bcf6c8980",
-  "minShell": "0.0.0",
-  "channel": "stable"
-}
+{"channel":"stable","gameUrl":"../payload/game-0.14.4.html","minShell":"0.0.0","sha256":"e49ad974927ffe4c7e421a48273c9db05f00d00fc62aa2927559d8e98bb3a03c","version":"0.14.4"}
